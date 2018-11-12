@@ -1,5 +1,5 @@
-# BMKG-API
-`(v 0.0.1)` Express.js based web, that convert bmkg data xml to json.
+# BMKG-API v.0.0.1
+Express.js based web, that convert bmkg data xml to json.
 
 ## Demo BMKG-API
 
