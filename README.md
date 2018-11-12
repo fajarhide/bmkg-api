@@ -11,7 +11,7 @@ Express.js based web, that convert bmkg data xml to json.
 
 Data from bmkg source :
 ```
-[http://data.bmkg.go.id](http://data.bmkg.go.id)
+http://data.bmkg.go.id
 ```
 
 ## How to use
