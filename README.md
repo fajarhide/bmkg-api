@@ -14,8 +14,7 @@ http://data.bmkg.go.id
 npm install
 npm start
 ```
-running on port 8000  <http://localhost:8000>
-
+running on port 8000  `<http://localhost:8000>`
 ## Quick deploy
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/fajarhide/bmkg-api)
 
